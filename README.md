@@ -1,1 +1,1 @@
-# js-music-app
+# Javascript Beat Maker
